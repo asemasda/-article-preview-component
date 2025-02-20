@@ -1,13 +1,13 @@
-# **Frontend Mentor - Article Preview Component Solution**
+# Frontend Mentor - Article Preview Component Solution
 
 This is my solution to the **[Article Preview Component Challenge](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)** on Frontend Mentor. 
 
---- ## **
+--- 
 
 🔗 Live Demo**
 
 🌍 **Live Site URL:** https://articlespotlight.netlify.app/ 
-📂 **Solution Repository:** [[GitHub - asemasda/-article-preview-component: Frontend Mentor - Article Preview Component. Built with HTML, CSS, and JavaScript.](https://github.com/asemasda/-article-preview-component)](YOUR_REPOSITORY_URL)
+📂 **Solution Repository:** [[GitHub - asemasda/-article-preview-component: Frontend Mentor - Article Preview Component. Built with HTML, CSS, and JavaScript.](https://github.com/asemasda/-article-preview-component)]
 
 --
 
